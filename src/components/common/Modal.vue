@@ -5,7 +5,7 @@
         <div class="modal-container">
           <div class="modal-header">
             <slot name="header">
-              <!--  -->
+              <!-- 에러 -->
             </slot>
           </div>
 
