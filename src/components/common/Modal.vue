@@ -11,7 +11,7 @@
 
           <div class="modal-footer">
             <slot name="footer">
-              <!--  -->
+              <!-- 왜안돼ㅜ -->
             </slot>
           </div>
         </div>
